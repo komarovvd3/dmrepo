@@ -1,0 +1,5 @@
+var accidentByMethodePlaceAgeTimeAndSex = Knoema.UseDataset("Accident by methode, place, age, time and sex");
+foreach (var place in accidentByMethodePlaceAgeTimeAndSex.Dimensions["Place"])
+{
+	WriteLine (place["Name"]);
+}

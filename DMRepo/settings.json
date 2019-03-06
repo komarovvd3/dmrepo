@@ -1,0 +1,6 @@
+{
+   "AutoPush": false,
+   "TaskLogDatasetPath": "System\\Task Execution Log",
+   "LaunchesDatasetPath": "",
+   "ApplicationServer": "http://localhost:5000"
+}
