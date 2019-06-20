@@ -1,0 +1,5 @@
+var imfWorldEconomicOutlookWEODatabaseOctober2017 = Knoema.UseDataset("IMF World Economic Outlook (WEO) Database, October 2017");
+foreach (var country in imfWorldEconomicOutlookWEODatabaseOctober2017.Dimensions["Country"])
+{
+	WriteLine(country["Name"]);;
+}
