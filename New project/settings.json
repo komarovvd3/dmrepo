@@ -1,6 +1,6 @@
 {
    "AutoPush": false,
-   "TaskLogDatasetPath": "",
-   "LaunchesDatasetPath": "",
+   "TaskLogDatasetPath": "System\\Task Execution Log",
+   "LaunchesDatasetPath": "System\\Validation Launch Log",
    "ApplicationServer": "localhost:9090"
 }
